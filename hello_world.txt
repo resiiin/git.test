@@ -1,1 +1,2 @@
 Weak Hero Class
+This is the second line
